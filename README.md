@@ -48,8 +48,10 @@ from .models import Student,StudentAdmin
 admin.site.register(Student,StudentAdmin)
 ```
 
-## OUTPUT
+## CLIENT OUTPUT
 ![output](/DJANGO%20ORM.png)
+## SERVER OUTPUT
+![OUTPUT](./serput.png)
 ## Verifying Primary-key
 ![output](./DJANGO1.png)
 
